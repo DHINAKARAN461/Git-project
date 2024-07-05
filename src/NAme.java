@@ -11,6 +11,6 @@ public class NAme {
 //yfjbjf
 //>>>>>>> checkout
 //=======
-    int aa =12;
+    int aa =11;
 //>>>>>>> separate
 }
