@@ -4,9 +4,13 @@ public class NAme {
 //=======
 
     double i;
+//<<<<<<< HEAD
 //>>>>>>> separate
 //=======
 
 //yfjbjf
 //>>>>>>> checkout
+//=======
+    int aa =12;
+//>>>>>>> separate
 }
