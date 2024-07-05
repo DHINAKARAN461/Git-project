@@ -1,4 +1,4 @@
 public class NAme {
-int aa=0;
+int aa=10;
 //yfjbjf
 }
