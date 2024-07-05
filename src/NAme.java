@@ -1,12 +1,12 @@
 public class NAme {
-<<<<<<< HEAD
+//<<<<<<< HEAD
 //<<<<<<< HEAD
 //=======
 
     double i;
 //>>>>>>> separate
-=======
+//=======
 
 //yfjbjf
->>>>>>> checkout
+//>>>>>>> checkout
 }
